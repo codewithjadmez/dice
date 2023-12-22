@@ -1,0 +1,22 @@
+1_Créez un nouveau fichier Javascript appelé index.js 
+et créez un lien vers celui-ci à partir du fichier index.html
+
+2_Dans le projet Dicee, il y a un dossier appelé images, ajoutez 
+les images de dice6.png comme source aux deux éléments <img>.
+
+3_Dans index.js, créez une nouvelle variable appelée randomNumber1 
+puis définissez la valeur de cette variable sur un nombre aléatoire
+compris entre 1 et 6. Testez-la dans la console pour vous assurer 
+qu'elle fonctionne comme prévu.
+
+4_Utilisez le nombre aléatoire que vous avez créé à la dernière étape 
+pour sélectionner une image de dé aléatoire entre dice1.png et dice 
+6.png, puis placez cette image à l'intérieur de l'élément <img> 
+de gauche.
+
+5_Faites de même pour l’élément d’image de droite.
+
+6_Modifiez le texte dans le h1 (qui dit actuellement Refresh Me) 
+pour indiquer quel utilisateur a gagné ou s'il y a eu un match nul 
+en fonction des valeurs des dés du joueur 1 (à gauche) et 
+du joueur2 (à droite).
